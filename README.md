@@ -1,11 +1,17 @@
 # Tiny-Second-hand-Shopping-Platform
 
 ## 실행 방법
+
 ### 깃 클론 / 폴더 추가
+
 git clone https://github.com/Hanjungyeop/Tiny-Second-hand-Shopping-Platform.git
+
 cd Tiny-Second-hand-Shopping-Platform
+
 mkdir -p static/uploads
+
 pip install -r requirements.txt
+
 ### 실행
 python main.py
 
