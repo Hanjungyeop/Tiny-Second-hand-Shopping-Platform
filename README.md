@@ -4,15 +4,15 @@
 
 ### 깃 클론 / 폴더 추가
 
-git clone https://github.com/Hanjungyeop/Tiny-Second-hand-Shopping-Platform.git
+`git clone https://github.com/Hanjungyeop/Tiny-Second-hand-Shopping-Platform.git`
 
-cd Tiny-Second-hand-Shopping-Platform
+`cd Tiny-Second-hand-Shopping-Platform`
 
-mkdir -p static/uploads
+`mkdir -p static/uploads`
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ### 실행
-python main.py
+`python main.py`
 
 #### 웹 브라우저에서 http://localhost:5000 로 접속시 사용가능
